@@ -1,0 +1,9 @@
+.main {
+    display: inline-block;
+    background-color: #e06666;
+    height: 82%;
+    width: 79%;
+    padding: 0.5%;
+    margin: 10px 0;
+    margin-left: 1%;
+}
